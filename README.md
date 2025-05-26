@@ -1,5 +1,4 @@
-# CS50P-Final-Project
-# PROJECTILE MOTION
+# CS50P-Final-Project: PROJECTILE MOTION 
     #### Video Demo:  <https://www.youtube.com/watch?v=KTfD4r12Skk>
     #### Description:
     Let’s see what this program does:
